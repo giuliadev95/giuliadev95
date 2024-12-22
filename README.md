@@ -21,5 +21,27 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 - 💪 Skilled in building: Blogs, Landing Pages, and Online Portfolios.
 - 🔭 Currently advancing my knowledge of React and exploring MySQL to enhance my full-stack capabilities.
 - 👯 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
+
+
+## My skills
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| HTML      |
+|     3| CSS       |
+
+
+| Rank | Frameworks |
+|-----:|------------|
+|     1| React      |
+|     2| Next.js    |
+|     3| Tailwind   |
+
+
+## Contact me
+ 📫 How to reach me: 
+ - My e-mail: giuliadev@gmail.com
+-  Or, dm me on Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
   
 
