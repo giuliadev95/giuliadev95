@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 I'm a dedicated front-end developer with less than a year of experience, passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript, React, and Next.js to deliver high-quality web solutions.
 
-- 🔥 Skilled in building: Blogs, Landing Pages, and Online Portfolios.
+- ✨ Skilled in building: Blogs, Landing Pages, and Online Portfolios.
 - 🐲 Currently advancing my knowledge of React and exploring MySQL to enhance my full-stack capabilities.
 - 🤝 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
 
@@ -41,7 +41,7 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 
 ## Contact me
  📫 How to reach me: 
- - My e-mail: giuliadev@gmail.com
+ - My e-mail: giuliadev95@gmail.com
 -  Or, dm me on Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
   
 
