@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Profile Image -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/drive/u/0/my-drive">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://drive.google.com/drive/u/0/my-drive)">
+ <img alt="Giulia Moukouyou" src="[YOUR-DEFAULT-IMAGE](https://drive.google.com/drive/u/0/my-drive)">
+</picture>
