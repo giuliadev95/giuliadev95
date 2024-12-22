@@ -1,4 +1,4 @@
-## Hi there, I'm Giulia 👋
+## Hi, Giulia here! 👋
 
 <!--
 **giuliadev95/giuliadev95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Profile Image -->
+## About me
+I am a dedicated front-end developer with less than a year of experience, passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript, React, and Next.js to deliver high-quality web solutions.
+
+- 💪 Skilled in building: Blogs, Landing Pages, and Online Portfolios.
+- 🔭 Currently advancing my knowledge of React and exploring MySQL to enhance my full-stack capabilities.
+- 👯 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
+  
 
