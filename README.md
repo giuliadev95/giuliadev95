@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Profile Image -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1GIMzgCmenf6BdLKbjVanKbKNw-Y2rVpC/view?usp=sharing">
- <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1GIMzgCmenf6BdLKbjVanKbKNw-Y2rVpC/view?usp=sharing">
- <img alt="Giulia Moukouyou" src="https://drive.google.com/file/d/1GIMzgCmenf6BdLKbjVanKbKNw-Y2rVpC/view?usp=sharing">
-</picture>
+
