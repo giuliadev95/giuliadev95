@@ -41,7 +41,7 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 
 ## Contact me
  📫 How to reach me: 
- - My e-mail: giuliadev95@gmail.com
--  Or, dm me on Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
+ - E-mail: giuliadev95@gmail.com
+-  Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
   
 
