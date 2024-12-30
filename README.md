@@ -38,7 +38,9 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 |     2| Next.js    |
 |     3| Tailwind   |
 
-| CMS | Sanity      |
+| Rank | CMS       |
+|-----:|-----------|
+|     1| Sanity|
 
 
 ## Contact me
