@@ -30,7 +30,7 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 |     1| JavaScript|
 |     2| HTML      |
 |     3| CSS       |
-|     4 TypeScript |
+|     4| TypeScript|
 
 | Rank | Frameworks |
 |-----:|------------|
