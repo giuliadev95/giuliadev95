@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a dedicated front-end developer with less than a year of experience, passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript, React, and Next.js to deliver high-quality web solutions.
 
 - ✨ Skilled in building: Blogs, Landing Pages, and Online Portfolios.
-- 🐲 Currently advancing my knowledge of React and exploring MySQL to enhance my full-stack capabilities.
+- 🐲 Currently advancing my knowledge of React and exploring the back-end to enhance my full-stack capabilities.
 - 🤝 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
 
 
@@ -30,13 +30,15 @@ I'm a dedicated front-end developer with less than a year of experience, passion
 |     1| JavaScript|
 |     2| HTML      |
 |     3| CSS       |
-
+|     4 TypeScript |
 
 | Rank | Frameworks |
 |-----:|------------|
 |     1| React      |
 |     2| Next.js    |
 |     3| Tailwind   |
+
+| CMS | Sanity      |
 
 
 ## Contact me
