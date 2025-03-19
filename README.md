@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a dedicated front-end developer with 1 year of experience, passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript, React, and Next.js to deliver high-quality web solutions.
 
 - ✨ Skilled in building: Blogs, Landing Pages, and Portfolio-websites.
-- 🐲 Currently learning TypeScript.
+- 🐲 Currently learning Software Development
 - ✈️ Maintaining, refactoring and updating my projects to enhance my full-stack capabilities.
 - 🤝 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
 
