@@ -22,7 +22,7 @@ I'm a dedicated front-end developer with 1+ year of experience, passionate about
 
 |   #  | Frameworks |
 |-----:|------------|
-|------| Express.js |
+|      | Express.js |
 |      | React      |
 |      | Next.js    |
 |      | Tailwind   |
