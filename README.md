@@ -1,12 +1,12 @@
 ## Hello! I'm Giulia 👋
 
 ## About me
-I'm a dedicated front-end developer with 1+ year of experience, passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript with Express on the backend and React on the frontend to deliver high-quality web solutions.
+I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript with Express on the backend and React on the frontend to deliver high-quality web solutions.
+I'm currently diving into c# and .Net Core fullstack development.
 
-- ✨ Skilled in building: Blogs, Landing Pages, Portfolio-websites, and CRUD Webapp.
-- 🐲 Currently diving deeper in TypeScript, Express and React during a 6 months internship to learn how to write clean and tested code.
-- ✈️ Maintaining, refactoring and updating my projects to enhance my full-stack capabilities.
-- 🤝 Open to collaborating on innovative projects and eager to expand my skillset with new technologies.
+- ✨ Proven skills in building: Blogs, Landing Pages, Portfolio-websites, and CRUD Webapps.
+- 🐲 Currently diving deeper into TypeScript.
+- 🤝 Seeking collabs on innovative projects and eager to expand my skill set.
 
 
 ## My skills
@@ -16,8 +16,9 @@ I'm a dedicated front-end developer with 1+ year of experience, passionate about
 |      | HTML      |
 |      | CSS       |
 |      | JavaScript|
-|      | TypeScript| => currenlty learning
 |      | SQL       |
+|      | TypeScript| => currenlty learning
+|      | C#        | => currently learning
 
 
 |   #  | Frameworks |
@@ -31,7 +32,8 @@ I'm a dedicated front-end developer with 1+ year of experience, passionate about
 |    # | Databases |
 |-----:|-----------|
 |      | SQL Server|
-|      | MongoDB   | => currenlty learning
+|      | PostgreSQL|
+|      | MongoDB   |
 
 |   #  | CMS       |
 |-----:|-----------|
