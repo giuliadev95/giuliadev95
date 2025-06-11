@@ -9,7 +9,7 @@ I'm currently diving into c# and .Net Core fullstack development.
 - 🤝 Seeking collabs on innovative projects and eager to expand my skill set.
 
 
-## My skills
+## Tech stack
 
 |    # | Languages |
 |-----:|-----------|
