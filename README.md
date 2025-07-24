@@ -21,12 +21,13 @@ I'm currently diving into c# and .Net Core fullstack development.
 |      | C#        | => currently learning
 
 
-|   #  | Frameworks |
-|-----:|------------|
-|      | Express.js |
-|      | React      |
-|      | Next.js    |
-|      | Tailwind   |
+|   #  | Frameworks   |
+|-----:|--------------|
+|      | Express.js   |
+|      | React        |
+|      | Next.js      |
+|      | Asp.NET Core |
+|      | Tailwind     |
 
 
 |    # | Databases |
