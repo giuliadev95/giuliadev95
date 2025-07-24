@@ -16,10 +16,13 @@ I'm currently diving into c# and .Net Core fullstack development.
 |      | HTML      |
 |      | CSS       |
 |      | JavaScript|
-|      | SQL       |
 |      | TypeScript| => currenlty learning
 |      | C#        | => currently learning
+|      | SQL       |
 
+|   #  | Runtime Environment  |
+|-----:|----------------------|
+|      | Node.js              |
 
 |   #  | Frameworks   |
 |-----:|--------------|
