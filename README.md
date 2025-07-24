@@ -2,8 +2,8 @@
 
 ## About me
 I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites.
-My main stack is JavaScript: I use Express on the backend, and React/Next.js on the frontend to deliver high-quality web solutions.  
-I also work with relational databases like SQL Server and PostgreSQL, and I'm currently expanding my skills into C# and full-stack .NET Core development with Razor Pages.
+My main stack is JavaScript: I use Node.js - Express on the backend, and React - Next.js on the frontend to deliver high-quality web solutions.  
+I also have hands-on experience with relational databases such as SQL Server and PostgreSQL.
 
 - ✨ Experienced in building websites and webapps from scratch.
 - 🎨 Passionate about turning design mockups into code (Figma lover!)  
@@ -17,7 +17,7 @@ I also work with relational databases like SQL Server and PostgreSQL, and I'm cu
 |      | HTML      |
 |      | CSS       |
 |      | JavaScript|
-|      | TypeScript| => currenlty learning
+|      | TypeScript|
 |      | C#        | => currently learning
 |      | SQL       |
 
@@ -27,8 +27,9 @@ I also work with relational databases like SQL Server and PostgreSQL, and I'm cu
 |      | Express.js   |
 |      | React        |
 |      | Next.js      |
-|      | Asp.NET Core |
 |      | Tailwind     |
+|      | Asp.NET Core |  => currenlty learning
+|      | Razor        |  => currenlty learning
 
 
 |    # | Databases |
