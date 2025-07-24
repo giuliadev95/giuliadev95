@@ -20,9 +20,6 @@ I'm currently diving into c# and .Net Core fullstack development.
 |      | C#        | => currently learning
 |      | SQL       |
 
-|   #  | Runtime Environment  |
-|-----:|----------------------|
-|      | Node.js              |
 
 |   #  | Frameworks   |
 |-----:|--------------|
@@ -38,6 +35,7 @@ I'm currently diving into c# and .Net Core fullstack development.
 |      | SQL Server|
 |      | PostgreSQL|
 |      | MongoDB   |
+
 
 |   #  | CMS       |
 |-----:|-----------|
