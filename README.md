@@ -1,12 +1,13 @@
 ## Hello! I'm Giulia 👋
 
 ## About me
-I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites. My expertise lies in leveraging JavaScript with Express on the backend and React on the frontend to deliver high-quality web solutions.
-I'm currently diving into c# and .Net Core fullstack development.
+I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites.
+My main stack is JavaScript: I use Express on the backend, and React/Next.js on the frontend to deliver high-quality web solutions.  
+I also work with relational databases like SQL Server and PostgreSQL, and I'm currently expanding my skills into C# and full-stack .NET Core development with Razor Pages.
 
-- ✨ Proven skills in building: Blogs, Landing Pages, Portfolio-websites, and CRUD Webapps.
-- 🐲 Currently diving deeper into TypeScript.
-- 🤝 Seeking collabs on innovative projects and eager to expand my skill set.
+- ✨ Experienced in building websites and webapps from scratch.
+- 🎨 Passionate about turning design mockups into code (Figma lover!)  
+- 🤝 Always eager to collaborate with teams on corporate projects
 
 
 ## Tech stack
