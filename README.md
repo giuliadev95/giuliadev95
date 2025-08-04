@@ -6,8 +6,10 @@ My main stack is JavaScript: I use Node.js - Express on the backend, and React -
 I also have hands-on experience with relational databases such as SQL Server and PostgreSQL.
 
 - ✨ Experienced in building websites and webapps from scratch.
+- 📍 Currently studying C# and Asp.NET Core
 - 🎨 Passionate about turning design mockups into code (Figma lover!)  
 - 🤝 Always eager to collaborate with teams on corporate projects
+
 
 
 ### **Tech Stack**
