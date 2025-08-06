@@ -1,17 +1,5 @@
 ## Hello! I'm Giulia 👋
 
-## About me
-I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites.
-My main stack is JavaScript: I use Node.js - Express on the backend, and React - Next.js on the frontend to deliver high-quality web solutions.  
-I also have hands-on experience with relational databases such as SQL Server and PostgreSQL.
-
-- ✨ Experienced in building websites and webapps from scratch.
-- 📍 Currently studying C# and Asp.NET Core
-- 🎨 Passionate about turning design mockups into code (Figma lover!)  
-- 🤝 Always eager to collaborate with teams on corporate projects
-
-
-
 ### **Tech Stack**
 
 #### **Languages**
@@ -38,6 +26,17 @@ I also have hands-on experience with relational databases such as SQL Server and
 ![Sanity](https://img.shields.io/badge/Sanity-FF3E00?style=for-the-badge&logo=sanity&logoColor=white)
 
 ---
+
+## About me
+I'm a dedicated web developer passionate about crafting user-centric and visually engaging websites.
+My main stack is JavaScript: I use Node.js - Express on the backend, and React - Next.js on the frontend to deliver high-quality web solutions.  
+I also have hands-on experience with relational databases such as SQL Server and PostgreSQL.
+
+- ✨ Experienced in building websites and webapps from scratch.
+- 📍 Currently studying C# and Asp.NET Core
+- 🎨 Passionate about turning design mockups into code (Figma lover!)  
+- 🤝 Always eager to collaborate with teams on corporate projects
+
 
 
 ## Contact me
