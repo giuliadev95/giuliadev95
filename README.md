@@ -29,12 +29,11 @@ Full Stack Developer
 ---
 
 ## About me
-Sono una sviluppatrice web appassionato di programmazione back-end e front-end, con 1 anno di esperienza su progetti personali.
+Sono una sviluppatrice web appassionata di programmazione back-end e front-end, con 1 anno di esperienza su progetti personali.
 Il mio stack principale è JavaScript: utilizzo Node.js - Express sul backend e React - Next.js sul frontend per offrire soluzioni web di alta qualità.
 Ho anche esperienza pratica con database relazionali come SQL Server e PostgreSQL.
 
 - ✨ Ho realizzato siti web, blog e webapp da zero.
-- 📍 
 - 🎨 Trasformo i mockup di Figma in interfacce web, precise pixel per pixel.
 - 🤝 Cerco posizioni di stage, internship in un'azienda software.
 
