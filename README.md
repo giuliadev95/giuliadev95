@@ -36,6 +36,7 @@ Ho anche esperienza pratica con database relazionali come SQL Server e PostgreSQ
 - ✨ Ho realizzato siti web, blog e webapp da zero.
 - 🎨 Trasformo i mockup di Figma in interfacce web, precise pixel per pixel.
 - 🤝 Cerco posizioni di stage, internship in un'azienda software.
+- 📍 Mi sto approcciando allo sviluppo in C# con Asp.NET Core
 
 
 
