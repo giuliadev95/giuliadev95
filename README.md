@@ -41,7 +41,7 @@ Ho anche esperienza pratica con database relazionali come SQL Server e PostgreSQ
 
 
 ## Contatti
- 📫 Se sei un recruiter o uno sviluppatore che vuole collaborare per sviluppare un progetto, mi piacerebbe entrare nel tuo team: 
+ 📫 Se sei un'azienda o uno sviluppatore che vuole collaborare per sviluppare un progetto, mi piacerebbe entrare nel tuo team: 
  - E-mail: giuliadev95@gmail.com
 -  Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
   
