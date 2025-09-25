@@ -1,5 +1,5 @@
 ## Ciao, sono Giulia 👋
-Full Stack Developer
+Front End Developer
 
 ### **Il mio Stack**
 
