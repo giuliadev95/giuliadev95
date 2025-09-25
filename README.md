@@ -7,21 +7,18 @@ Full Stack Developer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### **FRAMEWORK E LIBRERIE**
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### **DATABASE**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **CMS**
 ![Sanity](https://img.shields.io/badge/Sanity-FF3E00?style=for-the-badge&logo=sanity&logoColor=white)
@@ -29,14 +26,13 @@ Full Stack Developer
 ---
 
 ## About me
-Sono una sviluppatrice web appassionata di programmazione back-end e front-end.
-Il mio stack principale è JavaScript: utilizzo Node.js - Express sul backend e React - Next.js sul frontend per offrire soluzioni web di alta qualità.
-Ho anche esperienza pratica con database relazionali come SQL Server e PostgreSQL.
+Da Front End Developer, mi appassiona creare interfacce utente responsive e reattive, utilizzo JavaScript e React per la loro flessibilità e per la possibilità di creare componenti riutilizzabili, oltre che Single Page Applications.
+Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per progetti monolitici, o implementando un back-end in Node.js / Express, con database PostgreSQL.
+
 
 - ✨ Ho realizzato siti web, blog e webapp da zero.
 - 🎨 Trasformo i mockup di Figma in interfacce web, precise pixel per pixel.
-- 🤝 Aperta a posizioni di stage, internship, ruoli entry level in aziende software.
-- 📍 Mi sto approcciando allo sviluppo in C# con Asp.NET Core
+- 🤝 Aperta a posizioni di stage, internship, ruoli junior in aziende software.
 
 
 
