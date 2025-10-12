@@ -36,7 +36,7 @@ Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per 
 
 
 ## Contatti
- 📫 Se sei un'azienda o uno sviluppatore che vuole collaborare per sviluppare un progetto, mi piacerebbe entrare nel tuo team: 
+ 📫 Se sei un'azienda o uno sviluppatore che vuole collaborare, mi piacerebbe entrare nel tuo team: 
  - E-mail: giuliadev95@gmail.com
 -  Linkedin: https://www.linkedin.com/in/giuliamoukouyou/
   
