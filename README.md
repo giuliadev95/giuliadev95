@@ -1,5 +1,5 @@
 ## Ciao, sono Giulia 👋
-Front End Developer
+Web Developer
 
 ### **Il mio Stack**
 
@@ -33,7 +33,7 @@ Front End Developer
 ---
 
 ## About me
-Da Front End Developer, mi appassiona creare interfacce utente responsive e reattive, utilizzo JavaScript e React per la loro flessibilità e per la possibilità di creare componenti riutilizzabili, oltre che Single Page Applications.
+Mi appassiona creare interfacce utente responsive e reattive, utilizzo JavaScript e React per la loro flessibilità e per la possibilità di creare componenti riutilizzabili, oltre che Single Page Applications.
 Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per progetti monolitici, o implementando un back-end in Node.js / Express, con database PostgreSQL.
 
 
