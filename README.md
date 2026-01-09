@@ -26,12 +26,6 @@ Web Developer
 ![Sanity](https://img.shields.io/badge/Sanity-FF3E00?style=for-the-badge&logo=sanity&logoColor=white)
 
 
-#### **STO IMPARANDO**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
----
-
 ## About me
 Mi appassiona creare interfacce utente responsive e reattive, utilizzo JavaScript e React per la loro flessibilità e per la possibilità di creare componenti riutilizzabili, oltre che Single Page Applications.
 Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per progetti monolitici, o implementando un back-end in Node.js / Express, con database PostgreSQL.
