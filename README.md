@@ -28,7 +28,7 @@ Web Developer
 
 ## About me
 Mi appassiona creare interfacce utente responsive e reattive, utilizzo JavaScript e React per la loro flessibilità e per la possibilità di creare componenti riutilizzabili, oltre che Single Page Applications.
-Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per progetti monolitici, o implementando un back-end in Node.js / Express, con database PostgreSQL.
+Ho sviluppato siti web e web app in maniera full-stack, utilizzando Next.js per progetti monolitici, o implementando un back-end in Node.js / Express, con database PostgreSQL o SQL Server.
 
 
 - ✨ Ho realizzato siti web, blog e webapp da zero.
